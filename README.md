@@ -1,39 +1,40 @@
-# 👋 Hola, soy Estefany Sanabria
+# 👋 Hi, I'm Estefany Sanabria
 
-Desarrolladora de software en formación, enfocada en desarrollo web frontend y full stack.  
-Me gusta crear aplicaciones funcionales, bien estructuradas y con una buena experiencia de usuario.
+Software Development student focused on frontend and full stack web development.  
+I enjoy building functional, well-structured applications with a strong focus on user experience.
 
-### 🚀 Actualmente
-- Estudiante de 9º semestre de Ingeniería en Desarrollo de Software
-- Desarrollando proyectos web con  HTML5, CSS3, JavaScript, React, Bootstrap
-- Aprendiendo Angular de forma autodidacta
+### 🚀 Currently
+- 9th semester Software Development Engineering student
+- Developing web projects using HTML5, CSS3, JavaScript, React, and Bootstrap
+- Learning Angular independently
 
-### 🛠️ Tecnologías
+### 🛠️ Technologies
 - **Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap, Sass
-- **Backend:** Node.js (Express), arquitectura MVC y modular, SQL Server, .Net Core
-- **Base de datos:** SQL / MySQL
-- **Otros:** Git, GitHub, SCRUM
+- **Backend:** Node.js (Express), MVC and modular architecture, SQL Server, .NET Core
+- **Databases:** SQL, MySQL
+- **Other:** Git, GitHub, Scrum
 
-### 📂 Proyectos Destacados
+### 📂 Featured Projects
 
-**Sistema de cálculo de renta (El Salvador)**  
-Aplicación para calcular el impuesto sobre la renta anual.  
-Tecnologías: JavaScript  
+**Income Tax Calculator (El Salvador)**  
+Web application to calculate annual income tax.  
+**Technologies:** JavaScript  
 👉 https://github.com/Estefany-S/calcular-renta
 
-**Sistema de Inventario (PEPS)**  
-Aplicación de escritorio para control de inventario usando el método PEPS.  
-Tecnologías: C#  
+**Inventory Management System (PEPS)**  
+Desktop application for inventory control using the FIFO method.  
+**Technologies:** C#  
 👉 https://github.com/Estefany-S/sistema_inventario
 
-**Clon Web Root Studio**  
-Clon frontend para practicar diseño y navegación en React.  
-Tecnologías: React  
+**Root Studio Website Clone**  
+Frontend website clone created to practice UI design and navigation with React.  
+**Technologies:** React  
 👉 https://github.com/Estefany-S/web-rootstudio
 
-### 📫 Contacto
+### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/estefany-elizabeth-sanabria-930443310
 - GitHub: https://github.com/Estefany-S
+
 
 <!--
 **Estefany-s/Estefany-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
