@@ -21,7 +21,7 @@ Web application to calculate annual income tax.
 **Technologies:** JavaScript  
 👉 https://github.com/Estefany-S/calcular-renta
 
-**Inventory Management System (PEPS)**  
+**Inventory Management System (FIFO)**  
 Desktop application for inventory control using the FIFO method.  
 **Technologies:** C#  
 👉 https://github.com/Estefany-S/sistema_inventario
