@@ -29,7 +29,7 @@ Tecnologías: C#
 **Clon Web Root Studio**  
 Clon frontend para practicar diseño y navegación en React.  
 Tecnologías: React  
-👉 https://github.com/Estefany-s/web-rootstudio
+👉 https://github.com/Estefany-S/web-rootstudio
 
 ### 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/estefany-elizabeth-sanabria-930443310
