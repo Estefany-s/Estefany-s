@@ -4,7 +4,7 @@ Software Development student focused on frontend and full stack web development.
 I enjoy building functional, well-structured applications with a strong focus on user experience.
 
 ### 🚀 Currently
-- 9th semester Software Development Engineering student
+- Software Development Engineer in training, currently developing my graduation project. Expected graduation: [March, 2027].
 - Developing web projects using HTML5, CSS3, JavaScript, React, and Bootstrap
 - Learning Angular independently
 
